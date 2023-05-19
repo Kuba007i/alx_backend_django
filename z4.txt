@@ -1,0 +1,7 @@
+1. Dodać pole sponsored do modelu. bool
+2. Dodać to pole we wszystkich szablonach
+3. Na liście postów posty sponsored są wyświetlane jako pierwsze i wyświetlane jakoś inaczej
+
+4. Dodać przełącznik zmieniający published na nie published i odwrotnie:
+ - na liście postów
+ - kliknięcie w link będzie odpalało widok, który przełączy stan i wyświetli od nowa listę
